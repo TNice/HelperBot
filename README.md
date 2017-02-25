@@ -1,4 +1,4 @@
 # HelperBot
 
 ## Need Help?
-[Click Here] (tnice.github.io/HelperBot)
+[Click Here] (http://tnice.github.io/HelperBot)

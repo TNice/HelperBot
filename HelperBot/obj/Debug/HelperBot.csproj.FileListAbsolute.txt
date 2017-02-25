@@ -1,0 +1,5 @@
+C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\bin\Debug\DiscordBotWithConsoleCommands.exe.config
+C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\obj\Debug\DiscordBotWithConsoleCommands.exe
+C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\obj\Debug\DiscordBotWithConsoleCommands.pdb
+C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\bin\Debug\HelperBot.exe.config
+C:\Users\Tyler\Desktop\Helper Bot\HelperBot\bin\Debug\HelperBot.exe.config

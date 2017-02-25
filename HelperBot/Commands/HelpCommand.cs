@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiscordBotWithConsoleCommands.Commands
+namespace HelperBot.Commands
 {
     class HelpCommand : Program, ICommand
     {
@@ -51,10 +51,13 @@ namespace DiscordBotWithConsoleCommands.Commands
 
         public string Execute(string[] args)
         {
+            string helpText = $"\n{"---Commands---", -15} {"---Info---", 30}\n";
             foreach (ICommand c in CommadHandler.commands)
             {
-
+                helpText += $"{c.Name, -15} {c.HelpText, 30}\n";
             }
+
+            Console.Write(helpText);
             return null;
         }
     }

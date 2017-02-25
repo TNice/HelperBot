@@ -3,3 +3,23 @@ C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\obj\Debug\Discor
 C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\obj\Debug\DiscordBotWithConsoleCommands.pdb
 C:\Users\Tyler\Desktop\Helper Bot\DiscordBotWithConsoleCommands\bin\Debug\HelperBot.exe.config
 C:\Users\Tyler\Desktop\Helper Bot\HelperBot\bin\Debug\HelperBot.exe.config
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\HelperBot.exe.config
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\obj\Debug\HelperBot.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\HelperBot.exe
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\HelperBot.pdb
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Discord.Net.Audio.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Discord.Net.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\RestSharp.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\bin\Debug\RestSharp.xml
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\obj\Debug\HelperBot.exe
+C:\Users\Tyler\Desktop\BotRepo\HelperBot\HelperBot\obj\Debug\HelperBot.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiscordBotWithConsoleCommands.Commands
+namespace HelperBot.Commands
 {
     class GetTokenCommand : ICommand
     {
@@ -39,6 +39,7 @@ namespace DiscordBotWithConsoleCommands.Commands
 
         public string Execute(string[] args)
         {
+
             return Settings.Default.Token;
         }
     }

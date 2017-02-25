@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiscordBotWithConsoleCommands
+namespace HelperBot
 {
     public class CommandRegistry<T> where T : ICommand
     {

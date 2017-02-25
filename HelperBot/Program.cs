@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Discord;
 using System.Reflection;
 
-namespace DiscordBotWithConsoleCommands
+namespace HelperBot
 {
     //Command Interface
     public interface ICommand

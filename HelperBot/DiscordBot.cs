@@ -7,7 +7,7 @@ using Discord;
 using Discord.Audio;
 using Discord.Commands;
 
-namespace DiscordBotWithConsoleCommands
+namespace HelperBot
 {
     class DiscordBot
     {     
@@ -149,12 +149,6 @@ namespace DiscordBotWithConsoleCommands
         {
             Program.serverList.Clear();
             client.Disconnect();
-        }
-
-        public async void JoinVoice(Channel voice)
-        {         
-          
-            
         }
 
 

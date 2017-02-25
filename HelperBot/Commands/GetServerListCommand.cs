@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Discord;
 
-namespace DiscordBotWithConsoleCommands.Commands
+namespace HelperBot.Commands
 {
     //Class Child Of Program To Access The Discord Bot Instance And Implaments ICommand
     class GetServerListCommand : Program, ICommand

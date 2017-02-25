@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiscordBotWithConsoleCommands
+namespace HelperBot.Commands
 {
     //Class Implaments ICommand
     class ClearCommand : ICommand

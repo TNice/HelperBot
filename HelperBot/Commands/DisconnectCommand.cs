@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DiscordBotWithConsoleCommands.Commands
+namespace HelperBot.Commands
 {
     //Class Child Of Program To Access The Discord Bot Instance And Implaments ICommand
     class DisconnectCommand : Program, ICommand
